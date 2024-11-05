@@ -1,0 +1,13 @@
+# Logs
+logs
+*.log
+.env
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+go.sum
+reli_queue
+/openapitools.json
